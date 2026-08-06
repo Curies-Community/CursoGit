@@ -1,2 +1,2 @@
 # CursoGit
-Nuevo Texto de Ejemplo
+Texto de Ejemplo
