@@ -1,2 +1,2 @@
 # CursoGit
-Materiales para el curso de Git
+Nuevo Texto de Ejemplo
